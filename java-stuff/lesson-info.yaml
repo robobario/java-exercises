@@ -3,3 +3,4 @@ content:
 - identity-strings
 - static
 - static-methods
+- static-factory
