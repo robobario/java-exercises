@@ -5,3 +5,4 @@ content:
 - static-methods
 - static-factory
 - iteration-arrays
+- iteration-arraylist
