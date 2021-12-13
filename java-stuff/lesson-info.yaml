@@ -6,3 +6,5 @@ content:
 - static-factory
 - iteration-arrays
 - iteration-arraylist
+- concat-arraylist
+- hashset
