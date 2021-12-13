@@ -1,0 +1,9 @@
+type: marketplace
+title: Java stuff
+language: English
+summary: Going over some java stuff, statics, iteration-styles, streams api, lambdas, keywords etc.
+vendor:
+  name: Roby
+programming_language: Java
+content:
+- java-stuff
