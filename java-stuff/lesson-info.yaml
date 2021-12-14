@@ -8,3 +8,5 @@ content:
 - iteration-arraylist
 - concat-arraylist
 - hashset
+- hashset-intersection
+- runnable
