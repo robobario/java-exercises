@@ -17,3 +17,4 @@ content:
 - streams
 - streams-filter
 - streams-filter-null
+- streams-flatmap
