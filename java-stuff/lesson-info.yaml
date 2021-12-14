@@ -10,3 +10,7 @@ content:
 - hashset
 - hashset-intersection
 - runnable
+- runnable-lambda
+- consumer-lambda
+- supplier-lambda
+- function-lambda
